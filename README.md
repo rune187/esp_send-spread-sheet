@@ -1,0 +1,2 @@
+# esp_send-spread-sheet
+espからスプレッドシートに値を渡して入力する。parametarで渡すのではなくqueryで文字列に変換して渡す。
